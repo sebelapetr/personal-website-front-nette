@@ -10,4 +10,6 @@
 # config
 /app/config/local.neon
 # NODE MODULES
-/www/node_modules/
+/node_modules/
+/www/dist/
+/www/assets/
